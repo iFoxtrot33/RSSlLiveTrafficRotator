@@ -1,2 +1,4 @@
 # RSSlLiveTrafficRotator
-RSS Live Traffic Rotator
+
+### Tests status:
+![Linter workflow](https://github.com/iFoxtrot33/RSSlLiveTrafficRotator/actions/workflows/lint.yml/badge.svg)
