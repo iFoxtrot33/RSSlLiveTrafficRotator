@@ -1,0 +1,19 @@
+{
+  "name": "rssllivetrafficrotator",
+  "version": "1.0.0",
+  "description": "RSS Live Traffic Rotator",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iFoxtrot33/RSSlLiveTrafficRotator.git"
+  },
+  "author": "Iurii Furman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iFoxtrot33/RSSlLiveTrafficRotator/issues"
+  },
+  "homepage": "https://github.com/iFoxtrot33/RSSlLiveTrafficRotator#readme"
+}
