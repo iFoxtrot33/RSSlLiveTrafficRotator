@@ -5,10 +5,28 @@ body {
   height: 100vh;
   font-family: "Montserrat", sans-serif;
   background-image: url(https://source.unsplash.com/1600x900/?landscape);
+  background-size: cover;
+  background-position: 0px -100px;
 }
 
 div.rss-rotator {
   width: 100%;
   align-self: flex-end;
   background-color: #fff;
+}
+div.rss-rotator .title {
+  padding: 20px;
+  background-color: #396362;
+  color: white;
+}
+div.rss-rotator ul {
+  list-style: none;
+  height: 300px;
+  overflow: auto;
+  margin: 0;
+  padding: 0;
+}
+div.rss-rotator ul li {
+  padding: 0 20px;
+  border-bottom: 1px solid #ccc;
 }/*# sourceMappingURL=styles.css.map */
