@@ -24,6 +24,6 @@ https://trafficrotatoruk.surge.sh/
 - JavaScript
 - Axios
 
-## Demo picture
+## Demo picture:
 ![Traffic rotator](https://user-images.githubusercontent.com/102408798/208234099-0d5e01c9-8f2d-478c-a0cb-5cc06a9a5c7c.jpg)
 
