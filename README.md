@@ -9,7 +9,7 @@ https://trafficrotatoruk.surge.sh/
 ## 💻To deploy localy:
 ```
 1)git clone
-2)cd sushi-delivery-store
+2)cd RSSlLiveTrafficRotator
 3)npm ci
 4)npm start
 ```
